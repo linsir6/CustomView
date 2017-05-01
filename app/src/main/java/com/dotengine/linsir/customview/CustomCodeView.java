@@ -18,7 +18,7 @@ import java.util.Set;
 /**
  * Created by linSir
  * date at 2017/4/7.
- * describe:
+ * describe:自定义的自动生成验证码的view
  */
 
 public class CustomCodeView extends View {

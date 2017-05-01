@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/mac/WorkSpace/Android/CustomView/myrecyclerview/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/mac/WorkSpace/Android/CustomView/myrecyclerview/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_49fb9b961415ffad08fadc26cdca171ac3111b11/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/WorkSpace/Android/CustomView/myrecyclerview/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3f75a2e8bc21f7144406961ed0b6a02921c2f43f">
+        <dex dex="/Users/mac/WorkSpace/Android/CustomView/myrecyclerview/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3e8f1feae3e54e6516462f9e53a0da5f7a041f66/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/WorkSpace/Android/CustomView/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/mac/WorkSpace/Android/CustomView/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c3d5cfe0ba8556cf99bd431a6cafba701e3fb952/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/WorkSpace/Android/CustomView/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dc748d433b7c69075d0383b3130e9d4c9e18c8d0">
+        <dex dex="/Users/mac/WorkSpace/Android/CustomView/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6bd8473c16eea48120ef41fd03000731bc012498/classes.dex" />
+    </item>
+
+</items>
